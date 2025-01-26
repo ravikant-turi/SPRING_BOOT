@@ -1,0 +1,12 @@
+pagination:
+
+1.pageNumber
+2.pageSize
+3.totalElements
+4.totalPages
+5.lastPage
+6.content
+
+7:16:16:DONE
+7:26:26:DONE
+8:DONE

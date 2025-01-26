@@ -1,0 +1,20 @@
+
+
+   Get/ jobs : get All jobs
+   {base_url} /jobs
+
+   Get / jobs / {id}: get job by specific id
+   {base_url} /jobs/2
+
+   Post / jobs : create a new job ( request body should contain the job details)
+   {base_url} /jobs
+
+   delete / jobs/ {id} : delete a specific job by id
+   {base_url} /jobs/1
+
+    put / jobs/{id}: update a specific job by ID (Request body should contain the updated job)
+   {base_url} /jobs/{id}
+
+    Get / jobs/{id} /company : get the company associated with a specific job by ID
+   {base_url} /jobs/{id}
+
